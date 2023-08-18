@@ -114,7 +114,7 @@
       "frontid1":"rbxassetid://14298396058",
       "controllerid1":"rbxassetid://14482597939",
       "side":1,
-      "sideid1":"rbxassetid://14298396058",
+      "sideid1":"rbxassetid://14298396058"
    },
       {
       "number":12,
@@ -126,6 +126,6 @@
       "controllerid2":"rbxassetid://14482627094",
       "side":2,
       "sideid1":"rbxassetid://14298409066",
-      "sideid1":"rbxassetid://14298405027"
+      "sideid2":"rbxassetid://14298405027"
    }
 ]

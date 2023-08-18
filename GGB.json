@@ -259,6 +259,36 @@
       "controllerid1":"rbxassetid://14483080153",
       "side":1,
       "sideid1":"rbxassetid://14298487744"
+   },
+             {
+      "number":27,
+      "route":"SPEC",
+      "front":1,
+      "frontid1":"rbxassetid://14298491404",
+      "controllerid1":"rbxassetid://14483210957",
+      "side":1,
+      "sideid1":"rbxassetid://14298491404"
+   },
+                {
+      "number":28,
+      "route":"STA",
+      "front":1,
+      "frontid1":"rbxassetid://14298496825",
+      "controllerid1":"rbxassetid://14483221237",
+      "side":1,
+      "sideid1":"rbxassetid://14298496825"
+   },
+                   {
+      "number":29,
+      "route":"THIEF",
+      "front":2,
+      "frontid1":"rbxassetid://14298500976",
+      "frontid2":"rbxassetid://14298503664",
+      "controllerid1":"rbxassetid://14483239472",
+      "controllerid2":"rbxassetid://14483247264",
+      "side":2,
+      "sideid1":"rbxassetid://14298500976"
+      "sideid2":"rbxassetid://14298503664"
    }
 ]
 

@@ -76,12 +76,12 @@
    },
    {
       "number":8,
-      "route":"EMC",
+      "route":"NIS",
       "front":1,
-      "frontid1":"rbxassetid://14298286198",
-      "controllerid1":"rbxassetid://14482407874",
+      "frontid1":"rbxassetid://14298225459",
+      "controllerid1":"rbxassetid://14489312752",
       "side":1,
-      "sideid1":"rbxassetid://14298286198"
+      "sideid1":"rbxassetid://14298225459"
    },
    {
       "number":9,
@@ -499,5 +499,14 @@
       "side":2,
       "sideid1":"rbxassetid://14384584364",
       "sideid2":"rbxassetid://14384588117"
+   },
+         {
+      "number":49,
+      "route":"MEET",
+      "front":1,
+      "frontid1":"rbxassetid://14298469553",
+      "controllerid1":"rbxassetid://14489913282",
+      "side":1,
+      "sideid1":"rbxassetid://14298469553"
    }
 ]

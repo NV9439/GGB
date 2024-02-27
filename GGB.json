@@ -511,12 +511,12 @@
    },
    {
       "number":50,
-      "route":"RBIS",
+      "route":"SRE",
       "front":1,
-      "frontid1":"rbxassetid://14723456296",
-      "controllerid1":"rbxassetid://14723445319",
+      "frontid1":"rbxassetid://16544671244",
+      "controllerid1":"rbxassetid://16544676579",
       "side":1,
-      "sideid1":"rbxassetid://14723456296"
+      "sideid1":"rbxassetid://16544671244"
    },
    {
       "number":51,
